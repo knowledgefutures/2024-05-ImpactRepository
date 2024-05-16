@@ -14,7 +14,7 @@ export default function AdminLayout({ children }: Readonly<{ children: React.Rea
 					<div className="flex h-14 items-center border-b px-4 lg:h-[60px] lg:px-6">
 						<Link href="/" className="flex items-center gap-2 font-semibold">
 							<Image className="h-7 w-7" src={acmeLogo} alt="Acme Logo" />
-							<span className="">Acme Inc.</span>
+							<span className="">Acme Foundation</span>
 						</Link>
 					</div>
 					<div className="flex-1">
