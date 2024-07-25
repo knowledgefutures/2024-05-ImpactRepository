@@ -16,7 +16,7 @@ export default function Header() {
 		<nav className="sticky top-0 border-b border-slate-800 px-8 py-3 font-mono mb-12 bg-white z-10">
 			<a
 				className="absolute left-2 top-[10px] "
-				href="https://rd.knowledgefutures.org/ds/003"
+				href="https://www.knowledgefutures.org/rd/ds004"
 			>
 				<Image src={kfDoc} width={24} height={24} alt="KF Demo Documentation" />
 			</a>
